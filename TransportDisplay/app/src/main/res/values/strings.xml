@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Transport Display</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_display">Transport Display</string>
+    <string name="firebase_path" translatable="false">locations</string>
+    <string name="firebase_email" translatable="false">admin@admin.com</string>
+    <string name="firebase_password" translatable="false">admin505</string>
+    <string name="nameerror" >Please Enter Valid name</string>
+    <string name="emailerror" >Are Dhang Se Likho Bhai</string>
+    <string name="passworderror" >Aisa Likho Jo yaad na aaye</string>
+</resources>
